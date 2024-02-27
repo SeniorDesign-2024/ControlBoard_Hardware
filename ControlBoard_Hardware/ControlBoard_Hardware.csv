@@ -1,21 +1,21 @@
 Ref,Value,Cmp name,Footprint,Description,Vendor,Qnty, Price , Total ,Link
-"C2, C4, C6, C8, C10, C12",1uF,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,"Unpolarized capacitor, small symbol",Mouser,6, $0.10 , $0.60 ,https://www.mouser.com/ProductDetail/KEMET/C0603C105M4PACTU?qs=HpYJtD%2F%252BJmKbSvfLk1d6Iw%3D%3D
-"C3, C5, C7, C9, C11, C13",0.1uF,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,"Unpolarized capacitor, small symbol",Mouser,6, $0.10 , $0.60 ,https://www.mouser.com/ProductDetail/KEMET/C0402C104J4RAC7411?qs=sGAEpiMZZMuMW9TJLBQkXiwgFMY8Tg3hTQ3u3OQ%252BkHw%3D
-C14,1000uF,C_Polarized_Small,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,"Polarized capacitor, small symbol",Mouser,1, $0.34 , $0.34 ,https://www.mouser.com/ProductDetail/KEMET/ESK108M6R3AG3AA?qs=sGAEpiMZZMvwFf0viD3Y3alQ38YpLRN%252BJvFNdwRQsWg%3D
-"Conn1, Conn6, Conn7, Conn8, Conn9, Conn10, Conn11, Conn13, Conn14",Molex_SL_02,Molex_SL_02,MRDT_Connectors:MOLEX_SL_02_Horizontal,,Mouser,9, $0.73 , $6.57 ,https://www.mouser.com/ProductDetail/Molex/70553-0001?qs=tYx%252BZc2nXqqznXDBRnwLig%3D%3D
-"Conn2, Conn4",Molex_SL_04,Molex_SL_04,MRDT_Connectors:MOLEX_SL_04_Horizontal,,Mouser,2, $1.27 , $2.54 ,https://www.mouser.com/ProductDetail/Molex/70553-0003?qs=tYx%252BZc2nXqor1JDF8v%2FPGQ%3D%3D
-Conn3,Molex_SL_05,Molex_SL_05,MRDT_Connectors:MOLEX_SL_05_Horizontal,,Mouser,1, $1.63 , $1.63 ,https://www.mouser.com/ProductDetail/Molex/70553-0004?qs=ZwgtpdmWYYTnBu0JYF0l5A%3D%3D
-"Conn5, Conn12",Molex_SL_03,Molex_SL_03,MRDT_Connectors:MOLEX_SL_03_Horizontal,,Mouser,2, $1.16 , $2.32 ,https://www.mouser.com/ProductDetail/Molex/70553-0002?qs=ZwgtpdmWYYSlNv8ZbhKL1w%3D%3D
-"D1, D2, D3, D4, D5",LED,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Light emitting diode,Mouser,5, $0.15 , $0.75 ,https://www.mouser.com/ProductDetail/Wurth-Elektronik/150060VS75000?qs=LlUlMxKIyB1Q1Bi5mQ%2FKLw%3D%3D
-R1,2k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1, $0.10 , $0.10 ,https://www.mouser.com/ProductDetail/YAGEO/AC0603JR-072KL?qs=sGAEpiMZZMvdGkrng054t7zOzNqIRvGcQUbUupEIH3I%3D
-"R2, R5, R6",300,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,3, $0.10 , $0.30 ,https://www.mouser.com/ProductDetail/Susumu/RR0816P-301-D?qs=sGAEpiMZZMvdGkrng054t0uOsFOTJMhbCh1Cfd0t74U%3D
-R3,1000,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1, $0.10 , $0.10 ,https://www.mouser.com/ProductDetail/Vishay-Draloric/RCA06031K00FKEA?qs=sGAEpiMZZMvdGkrng054t4RorV1Ti4DlSoHlJpJPPXw%3D
-R4,120,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1, $0.10 , $0.10 ,https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRG0603F120R?qs=sGAEpiMZZMvdGkrng054t4t6Jub2HjIe1jNBXccc9wg%3D
-U1,~,Teensy_4.0,ControlBoard_Footprints:Teensy_4_0,,PJRC,1, $23.80 , $23.80 ,https://www.pjrc.com/store/teensy40.html
-,,,teensy socket,,PJRC,2, $0.70 , $1.40 ,https://www.pjrc.com/store/socket_14x1.html
-,,,teeny pins,,PJRC,2, $0.28 , $0.56 ,https://www.pjrc.com/store/header_14x1.html
-"U2, U11",TSR_1-2450,TSR_1-2450,Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT,"1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement",Mouser,2, $11.75 , $23.50 ,https://www.mouser.com/ProductDetail/TRACO-Power/TSR-2-2450?qs=NtE2QagKf6RzknAolzm%2FTQ%3D%3D
-"U3, U6, U7, U8, U9, U10",MCP1415,MCP1415,Package_TO_SOT_SMD:SOT-23-5,"1.5A High speed power MOSFET driver with inverting output, SOT-23-5",Mouser,6, $0.74 , $4.44 ,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP1416T-E-OT?qs=hH%252BOa0VZEiBT%252BgAjATFU6A%3D%3D
-U4,OKI-78SR-12,OKI-78SR-12_1.0-W36H-C,Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Horizontal,"1.0A Step-Down DC/DC-Regulator, 15-36V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Horizontal",Mouser,1, $4.97 , $4.97 ,https://www.mouser.com/ProductDetail/Murata-Power-Solutions/OKI-78SR-12-1.0-W36H-C?qs=AQlKX63v8Ru%252BZct7uNUrzA%3D%3D
+"C2, C4, C6, C8, C10, C12",1uF,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,"Unpolarized capacitor, small symbol",Mouser,6,$0.10 ,$0.60 ,https://www.mouser.com/ProductDetail/KEMET/C0603C105M4PACTU?qs=HpYJtD%2F%252BJmKbSvfLk1d6Iw%3D%3D
+"C3, C5, C7, C9, C11, C13",0.1uF,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,"Unpolarized capacitor, small symbol",Mouser,6,$0.10 ,$0.60 ,https://www.mouser.com/ProductDetail/KEMET/C0402C104J4RAC7411?qs=sGAEpiMZZMuMW9TJLBQkXiwgFMY8Tg3hTQ3u3OQ%252BkHw%3D
+C14,1000uF,C_Polarized_Small,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,"Polarized capacitor, small symbol",Mouser,1,$0.34 ,$0.34 ,https://www.mouser.com/ProductDetail/KEMET/ESK108M6R3AG3AA?qs=sGAEpiMZZMvwFf0viD3Y3alQ38YpLRN%252BJvFNdwRQsWg%3D
+"Conn1, Conn6, Conn7, Conn8, Conn9, Conn10, Conn11, Conn13, Conn14",Molex_SL_02,Molex_SL_02,MRDT_Connectors:MOLEX_SL_02_Horizontal,,Mouser,9,$0.73 ,$6.57 ,https://www.mouser.com/ProductDetail/Molex/70553-0001?qs=tYx%252BZc2nXqqznXDBRnwLig%3D%3D
+"Conn2, Conn4",Molex_SL_04,Molex_SL_04,MRDT_Connectors:MOLEX_SL_04_Horizontal,,Mouser,2,$1.27 ,$2.54 ,https://www.mouser.com/ProductDetail/Molex/70553-0003?qs=tYx%252BZc2nXqor1JDF8v%2FPGQ%3D%3D
+Conn3,Molex_SL_05,Molex_SL_05,MRDT_Connectors:MOLEX_SL_05_Horizontal,,Mouser,1,$1.63 ,$1.63 ,https://www.mouser.com/ProductDetail/Molex/70553-0004?qs=ZwgtpdmWYYTnBu0JYF0l5A%3D%3D
+"Conn5, Conn12",Molex_SL_03,Molex_SL_03,MRDT_Connectors:MOLEX_SL_03_Horizontal,,Mouser,2,$1.16 ,$2.32 ,https://www.mouser.com/ProductDetail/Molex/70553-0002?qs=ZwgtpdmWYYSlNv8ZbhKL1w%3D%3D
+"D1, D2, D3, D4, D5",LED,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,Light emitting diode,Mouser,5,$0.15 ,$0.75 ,https://www.mouser.com/ProductDetail/Wurth-Elektronik/150060VS75000?qs=LlUlMxKIyB1Q1Bi5mQ%2FKLw%3D%3D
+R1,2k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1,$0.10 ,$0.10 ,https://www.mouser.com/ProductDetail/YAGEO/AC0603JR-072KL?qs=sGAEpiMZZMvdGkrng054t7zOzNqIRvGcQUbUupEIH3I%3D
+"R2, R5, R6",300,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,3,$0.10 ,$0.30 ,https://www.mouser.com/ProductDetail/Susumu/RR0816P-301-D?qs=sGAEpiMZZMvdGkrng054t0uOsFOTJMhbCh1Cfd0t74U%3D
+R3,1000,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1,$0.10 ,$0.10 ,https://www.mouser.com/ProductDetail/Vishay-Draloric/RCA06031K00FKEA?qs=sGAEpiMZZMvdGkrng054t4RorV1Ti4DlSoHlJpJPPXw%3D
+R4,120,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,Resistor,Mouser,1,$0.10 ,$0.10 ,https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/CRG0603F120R?qs=sGAEpiMZZMvdGkrng054t4t6Jub2HjIe1jNBXccc9wg%3D
+U1,~,Teensy_4.0,ControlBoard_Footprints:Teensy_4_0,,PJRC,1,$23.80 ,$23.80 ,https://www.pjrc.com/store/teensy40.html
+,,,teensy socket,,PJRC,2,$0.70 ,$1.40 ,https://www.pjrc.com/store/socket_14x1.html
+,,,teeny pins,,PJRC,2,$0.28 ,$0.56 ,https://www.pjrc.com/store/header_14x1.html
+"U2, U11",TSR_1-2450,TSR_1-2450,Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT,"1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement",Mouser,2,$11.75 ,$23.50 ,https://www.mouser.com/ProductDetail/TRACO-Power/TSR-2-2450?qs=NtE2QagKf6RzknAolzm%2FTQ%3D%3D
+"U3, U6, U7, U8, U9, U10",MCP1415,MCP1415,Package_TO_SOT_SMD:SOT-23-5,"1.5A High speed power MOSFET driver with inverting output, SOT-23-5",Mouser,6,$0.74 ,$4.44 ,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP1416T-E-OT?qs=hH%252BOa0VZEiBT%252BgAjATFU6A%3D%3D
+U4,OKI-78SR-12,OKI-78SR-12_1.0-W36H-C,Converter_DCDC:Converter_DCDC_Murata_OKI-78SR_Horizontal,"1.0A Step-Down DC/DC-Regulator, 15-36V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Horizontal",Mouser,1,$4.97 ,$4.97 ,https://www.mouser.com/ProductDetail/Murata-Power-Solutions/OKI-78SR-12-1.0-W36H-C?qs=AQlKX63v8Ru%252BZct7uNUrzA%3D%3D
 ,,,,,,,,,
-,,,,,,,, $74.62 ,
+,,,,,,,,$74.62 ,
